@@ -1,0 +1,7 @@
+Створити кеш:
+покласти в кеш- boolean put(String cache, String key, Object o)
+дістати - Object get (String cache, String key)
+очистити всі кеші – void clear();
+очистити кеш - void clear(string cache)
+перевірка наявність кеша void isCacheExist(String cache)
++ javadocs, логування
